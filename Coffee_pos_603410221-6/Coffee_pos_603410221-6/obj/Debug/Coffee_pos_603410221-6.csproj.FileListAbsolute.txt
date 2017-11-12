@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\obj\Debug\Coffee_pos_603410221-6.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\obj\Debug\Coffee_pos_603410221_6.Form1.resources
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\obj\Debug\Coffee_pos_603410221_6.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\obj\Debug\Coffee_pos_603410221-6.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\bin\Debug\Coffee_pos_603410221-6.exe.config
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\bin\Debug\Coffee_pos_603410221-6.exe
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\bin\Debug\Coffee_pos_603410221-6.pdb
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\obj\Debug\Coffee_pos_603410221-6.exe
+C:\Users\Administrator\Desktop\Coffee_pos_603410221-6\Coffee_pos_603410221-6\obj\Debug\Coffee_pos_603410221-6.pdb
